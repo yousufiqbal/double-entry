@@ -5,11 +5,11 @@ Manage your accounting in its simplest form through this app.
 ## Features
 
 1. Logs all create, update and delete activity for auditing purposes.
-2. Manage multple Accounts
-3. All cloud data
-5. Make Chart of Accounts
-6. Add Transactions
-7. View Reports
+2. Multple Accounts
+3. Cloud data
+5. Chart of Accounts
+6. Transactions
+7. Reports
    1. Trial Balance
    2. Statement of Financial Position
    3. Income State
